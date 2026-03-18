@@ -28,7 +28,4 @@ Download `IDM_Freezer_Manager.cmd`, right-click and select **Run as administrato
 
 ---
 
-## Credits
 
-Original activation script by [ZIED](https://github.com/zinzied)  
-Telegram: [@zinzied](https://t.me/zinzied)

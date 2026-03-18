@@ -1,4 +1,4 @@
-# IDM Freezer & Manager v2.0
+# IDM Freezer & Manager 
 
 Download `IDM_Freezer_Manager.cmd`, right-click and select **Run as administrator**, then click **Yes** on the UAC prompt.
 
